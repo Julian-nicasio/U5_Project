@@ -19,7 +19,7 @@ To open in CMD prompt:
  2. Run npm start
 
 Changes:
- font color for titles were changed 
- high resolution image was added 
- no search function added 
- no bread crumb navigation added
+ 1. font color for titles were changed 
+ 2. high resolution image was added 
+ 3. no search function added 
+ 4. no bread crumb navigation added
