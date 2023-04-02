@@ -8,7 +8,7 @@ body {
 
 h1  {
     font-family: sans-serif;
-    color: rgb(24, 6, 6);
+    color: rgb(159, 125, 125);
 }
 
 h2, p, ul, li {
@@ -32,7 +32,7 @@ ul.header li a {
     display: inline-block;
 }
 .content {
-    background-color: rgba(186, 79, 9, 0.429);
+    background-color: rgba(244, 103, 9, 0.7);
     padding: 20px;
 }
 .content h2 {

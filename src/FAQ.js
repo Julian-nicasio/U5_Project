@@ -5,7 +5,7 @@ class FAQ extends Component {
     render(){
         return (
             <div>
-            <h2>Led</h2>
+            <h2>FAQ</h2>
                 <p><b>Do I have to replace my existing gutters to get gutter protection?</b></p>
                 <p>Absolutely not! Our gutter guard will fit right onto your existing gutters, 
                 which will save you money as well as keep your gutters clean.</p>
